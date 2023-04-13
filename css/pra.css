@@ -1,0 +1,179 @@
+.containerr{
+    height: 50px;
+    background: #06121e;
+    color: white;
+   
+}
+.header{
+    height: 70px;  
+    background: #0f2133;
+    color: white;
+    padding: 0px;
+
+
+}
+ .card-body .mo {
+   
+    margin-left: 10px;
+    width: 60%;
+    margin-top:25px;
+}
+
+.box{
+    height: 300px;
+   
+}
+.nav-item{
+    width: 10vw;
+    padding-left: 5px;
+ 
+    
+   
+   
+}
+.nav-item a{
+    color: white;
+
+}
+.slider{
+    height: 600px;
+}
+.slider img{
+    height: 600px;
+}
+
+.demo{
+    height: 70vh;
+}
+
+.demo img{
+    height: 70vh;
+    width: 100%;
+}
+
+.searchform{
+    height: 20vh;
+}
+
+.fleet{
+    height: 60vh;
+}
+
+.fleet img{
+    height: 60vh;
+    width: 100%;
+}
+.feet{
+    height: 60vh;
+}
+
+.feet img{
+    height: 60vh;
+    width: 100%;
+}
+.flet{
+    height: 60vh;
+}
+
+.flet img{
+    height: 60vh;
+    width: 100%;
+}
+.logo b{
+    padding-top: 20px;
+padding-left: 15px;   
+font-size: 22px; 
+font-style: italic;
+color: linear-gradient(to right, #33ccff 8%, #ff99cc 89%);
+}
+.searchbar .ii i{
+color: black;
+
+/* padding: 3px; */
+}
+.searchbar .ii :hover{
+   background: gray;
+}
+.col-4 .mme{
+    color: white;
+    text-decoration: none;
+    font-size: 17px; 
+    padding-left: 20px;
+}
+.col-4 .mme:hover{
+  
+    color:  rgb(192, 183, 183);
+}
+.col-4 .mie{
+    color: white;
+    text-decoration: none;
+    /* font-size: 17px;   */
+   padding-left: 15px;
+} 
+.col-4 .mie:hover{
+  
+    color: rgb(192, 183, 183);
+}
+.card-body  :hover {
+color:aquamarine;
+}
+.card-body  .ma:hover {
+    background-color:rgb(3, 19, 26);
+ }
+ .card-body  .ma {
+    font-size: 20px;
+    text-align: center;
+      
+    font-weight: bold;
+    height: 50px; 
+        /* padding: 5px 10px; */
+        width: 50%;
+        border: 0;
+        border-radius: 6px;
+        margin-top: 20px;
+       
+        position: relative;
+ }
+.carousel-item .mob:hover{
+color: white;
+ background-color:rgb(3, 19, 26);
+ }
+ .tes{
+  float:50%
+ }
+ .tel{
+        float: 50%;
+}
+.carousel-item .mob{
+    font-size: 25px;
+    margin-top: 70px;
+   /* padding: 15px 20px 12px 40px; */
+  text-align: center;
+      
+  font-weight: bold;
+  height: 60px; 
+      /* padding: 5px 10px; */
+      width: 40%;
+      border: 0;
+      border-radius: 6px;
+     margin-left: 60px;
+      color: rgb(24, 23, 23);
+      position: relative;
+      
+}
+.carousel-item .cc {
+padding-top: 15px;
+font-size: 25px;
+font-weight: bold;
+padding-left: 60px;
+}
+.carousel-item .cca {
+    padding-top: 15px;
+    
+    font-weight: bold;
+    padding-left: 60px;
+    }
+.card-deck .card{
+    border-radius: 26px;
+    height: 550px;
+}

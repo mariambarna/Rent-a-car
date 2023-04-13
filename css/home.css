@@ -1,0 +1,77 @@
+.containerr{
+    height: 50px;
+    background: #06121e;
+    color: white;
+   
+}
+.header{
+    height: 70px;  
+    background: #0f2133;
+    color: white;
+
+
+}
+ .card-body .mo {
+   
+    margin-left: 10px;
+    width: 60%;
+    margin-top:25px;
+}
+
+.box{
+    height: 300px;
+   
+}
+.nav-item{
+    width: 10vw;
+    padding-left: 5px;
+ 
+    
+   
+   
+}
+.nav-item a{
+    color: white;
+
+}
+.slider{
+    height: 600px;
+}
+.slider img{
+    height: 600px;
+}
+.logo b{
+    padding-top: 20px;
+padding-left: 15px;   
+font-size: 22px; 
+font-style: italic;
+color: linear-gradient(to right, #33ccff 8%, #ff99cc 89%);
+}
+.searchbar .ii i{
+color: black;
+
+/* padding: 3px; */
+}
+.searchbar .ii :hover{
+    color: gray;
+}
+.col-4 .mme{
+    color: white;
+    text-decoration: none;
+    font-size: 17px; 
+    padding-left: 20px;
+}
+.col-4 .mme:hover{
+  
+    color:  rgb(192, 183, 183);
+}
+.col-4 .mie{
+    color: white;
+    text-decoration: none;
+    /* font-size: 17px;   */
+   padding-left: 15px;
+} 
+.col-4 .mie:hover{
+  
+    color: rgb(192, 183, 183);
+}

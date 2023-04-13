@@ -1,0 +1,90 @@
+.sidebar{
+    height: 100vh;
+    background: #375677;
+    }
+    .sidebar .topbar{
+        height: 8vh;
+        width: 100%;
+        background: #dfe4e9;
+    
+    }
+    .sidebar .nav-item:hover{
+    background:  rgb(109, 99, 99) ;
+    color: aliceblue;
+    }
+    .sidebar .nav-item .nav-link :hover{
+        
+        color: black;
+        }
+    
+    .mainbar{
+        height: 100vh;
+    }
+    
+    
+    .mainbar .topbar{
+        height: 8vh;
+        width: 100%;
+        background: #dfe4e9;
+    }
+    .topbar .col-10,.col-2{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .topbar a{
+        color: black;
+    }
+    .sidebar .nav-item a{
+       color: white;
+        
+            /* padding-right: 15px ; */
+            margin-left: 22px;
+            text-decoration: none;
+            font-size: 17px;
+            padding: 11px  ;
+           
+            display: block;
+          
+          
+    }
+    .menucard{
+        height: 30vh;
+        background-color: skyblue;
+        width: 300px;
+       
+        padding-left: 60px;
+       padding-top: 90px;
+    }
+     .menucard .mm{
+       margin-left: 10px;
+       width: 20%;
+       margin-top:25px;
+    }
+    .menucard .mm a{
+        color: black;
+     }
+     .menucard .mm:hover{
+        background: #375677;
+    
+     }
+     .col-4 i:hover{
+    color:  blue;
+     }
+     .col-4 i:hover{
+        color: blue;
+     }
+     .col-4  a{
+        text-decoration: none;
+        color: black;
+  
+      }
+.col-1 .mw :hover{
+        color: blue;
+      }
+.col-1 .mw{
+        text-decoration: none;
+        font-size: 15px;
+      }
+       .col-8{
+        width: 300px;
+      }  
